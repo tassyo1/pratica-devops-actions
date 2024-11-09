@@ -23,13 +23,6 @@ jobs:
       # Passo 3: Instalar dependências e executar testes
       - name: Instalar dependências
         run: npm install
-      
-      # Passo 3: Instalar dependências e executar testes
-      - name: Permissões 2
-        run: npm config set user 0
-
-      - name: Permissões 2
-        run: npm config set unsafe-perm true
 
       # Passo 4: Executar testes
       - name: Executar testes
