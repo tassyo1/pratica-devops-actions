@@ -14,6 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
   #Define os passos a serem executados
-  steps:
-  - name: Ecoar Alô mundo
-    run: echo "Alô mundo"
+    steps:
+    - name: Ecoar Alô mundo
+      run: echo "Alô mundo"
