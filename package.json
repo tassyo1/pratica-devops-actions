@@ -1,5 +1,5 @@
 {
-  "name": "meu-projeto-calculadora",
+  "name": "pratica-devops-actions",
   "version": "1.0.0",
   "description": "Calculadora de quatro operações",
   "main": "src/index.ts",
