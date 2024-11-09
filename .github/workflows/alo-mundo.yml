@@ -11,7 +11,7 @@ jobs:
   #Define o job alo
   alo:
   #Define o ambiente de execução
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
   #Define os passos a serem executados
   steps:
